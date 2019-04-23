@@ -49,6 +49,7 @@ public:
  sum=(sum*10)+r;
  n=n/10;
 }
+        
 if(temp==sum)
 cout<<"Number is Palindrome.";
 else
